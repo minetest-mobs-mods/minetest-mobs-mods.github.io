@@ -14,7 +14,12 @@ Because we intend to perform maintenance on mods in our repositories, we prefer 
 
 For this reason, we will Pull-Request upstream on GitHub where possible; if the upstream developer(s) pursue development without integrating our changes over a significant period, we reserve the right to discontinue hosting a divergent version of the repository.
 
-Mods should be submitted by their original creators ideally, though apparently-abandoned mods may be submitted too, [please open an Issue](https://github.com/minetest-mobs-mods/minetest-mobs-mods.github.io/issues) to make a submission.
+Mods should be submitted by their original creators ideally, though apparently-abandoned mods may be submitted too.
+
+To submit a mod please:
+
+* [open an Issue](https://github.com/minetest-mobs-mods/minetest-mobs-mods.github.io/issues)
+  * Optionally: initiate a [Transfer Request](https://help.github.com/articles/transferring-a-repository/) on your repository to assign it to the `minetest-mobs-mods` repository (this allows GitHub to redirect links to your old repository location to its new location in our group, as well as retaining likes and follows for subscribers)
 
 ### Requirements for submission acceptance
 
