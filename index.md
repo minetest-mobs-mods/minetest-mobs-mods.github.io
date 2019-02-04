@@ -33,6 +33,7 @@ To submit a mod please:
         * typically [`CC-BY`](https://creativecommons.org/licenses/by/4.0/), although [`CC0`](https://creativecommons.org/choose/zero/) is also acceptable.
     * Any submitted mod that is improperly licensed but abandoned will be reviewed on a case-by-case basis.
 * Link to the mod's original online repository, or to where it can be downloaded, must be provided explicitly
+* Mod should not include trademarked content; if they are, acceptance may be subject to renaming of content, or conditional to the understanding that trademarked content will eventually be removed/renamed.
 
 
 ### Abandoned mods
