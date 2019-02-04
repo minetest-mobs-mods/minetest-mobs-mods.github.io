@@ -38,4 +38,4 @@ If the mod was improperly licensed (uncommon license, or license type without te
 
 ### Author rights within this group
 
-Authors will retain their original ownership rights and attribution. If said owners are known on GitHub at time of submission, they will automatcially be invited to join the group as contributors; they are free to accept or decline the invitation.
+Authors will retain their original ownership rights and attribution. If said owners are known on GitHub at time of submission, they will automatcially be invited to join the group as contributors; but are not required to join for the mod to be accepted.
