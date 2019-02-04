@@ -19,7 +19,7 @@ Mods should be submitted by their original creators ideally, though apparently-a
 To submit a mod please:
 
 * [open an Issue](https://github.com/minetest-mobs-mods/minetest-mobs-mods.github.io/issues)
-  * Optionally: initiate a [Transfer Request](https://help.github.com/articles/transferring-a-repository/) on your repository to assign it to the `minetest-mobs-mods` repository (this allows GitHub to redirect links to your old repository location to its new location in our group, as well as retaining likes and follows for subscribers)
+  * Optionally: initiate a [Transfer Request](https://help.github.com/articles/transferring-a-repository/) on your repository to assign it to the `minetest-mobs-mods` organisation (this allows GitHub to redirect links to your old repository location to its new location in our group, as well as retaining likes and follows for subscribers)
 
 ### Requirements for submission acceptance
 
